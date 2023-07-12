@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+"Starting December 16th, 2020 access to Alaska is restricted to those who need to know the inventory data. If you have a business justification then your manager will need to add you to AlaskaWebsiteAllowedUsers. Welcome to Alaska (Availability Lookup and Sku Aggregator) -- choose a view  Domain:  test prod  User: kamesk - Org CN  EU  FE  NA",,,,,,,,,,,,
+,Welcome to Alaska (Availability Lookup and Sku Aggregator) -- choose a view,Domain:  test prod  User: kamesk - Org CN  EU  FE  NA,,,,,,,,,,
+summary  custom  refresh  FNSKU Marketplace  Amazon UK Amazon DE Amazon FR Amazon IT Amazon ES Amazon IN Amazon TR Amazon UAE Amazon SA Amazon EG Amazon NL Amazon SE Amazon PL  Merchant  Amazon UK Amazon DE Amazon FR Amazon IT Amazon ES Amazon IN Amazon TR Amazon UAE Amazon SA Amazon EG Amazon NL Amazon SE Amazon PL,,,,,,,,,,,,
+summary  custom  refresh,,,,,,,,,,,,
+FNSKU,Marketplace,Amazon UK Amazon DE Amazon FR Amazon IT Amazon ES Amazon IN Amazon TR Amazon UAE Amazon SA Amazon EG Amazon NL Amazon SE Amazon PL,Merchant,Amazon UK Amazon DE Amazon FR Amazon IT Amazon ES Amazon IN Amazon TR Amazon UAE Amazon SA Amazon EG Amazon NL Amazon SE Amazon PL,,,,,,,,
+,,,,,,,,,,,,
+Results for: B079K9VMTT Marketplace ID:3 Merchant ID:9 Go To Detail Page Network Inventory (More Info)  FC  Supply  Demand  Net Supply  In Building  High Confidence PO  Incoming Transshipment  External FulfillmentArriving  External Fulfillment  Manufact- urable  Total Supply  Assigned Demand  Encumbrance  Outgoing Transshipment  Total Demand  ACGD  0  0  0  0  10  0  10  0  0  0  0  10  BHX2  1  0  0  0  0  0  1  0  -1  0  -1  0  LBA1  0  0  0  0  0  0  0  0  0  0  0  0  LBA2  43  0  0  0  0  0  43  0  0  0  0  43  MAN4  1  0  0  0  0  0  1  0  0  0  0  1  MXP3  1  0  0  0  0  0  1  0  0  0  0  1  XUKD  105  0  0  0  0  0  105  0  0  0  0  105  XUKN  40  0  0  0  0  0  40  0  0  0  0  40  Total  191  0  0  0  10  0  201  0  -1  0  -1  200  UnassignedDemand  0  NetInventory  200,,,,,,,,,,,,
+Results for: B079K9VMTT Marketplace ID:3 Merchant ID:9,Go To Detail Page,,,,,,,,,,,
+FC,Supply,Supply,Supply,Supply,Supply,Supply,Supply,Demand,Demand,Demand,Demand,Net Supply
+FC,In Building,High Confidence PO,Incoming Transshipment,External FulfillmentArriving,External Fulfillment,Manufact- urable,Total Supply,Assigned Demand,Encumbrance,Outgoing Transshipment,Total Demand,Net Supply
+ACGD,0,0,0,0,10,0,10,0,0,0,0,10
+BHX2,1,0,0,0,0,0,1,0,-1,0,-1,0
+LBA1,0,0,0,0,0,0,0,0,0,0,0,0
+LBA2,43,0,0,0,0,0,43,0,0,0,0,43
+MAN4,1,0,0,0,0,0,1,0,0,0,0,1
+MXP3,1,0,0,0,0,0,1,0,0,0,0,1
+XUKD,105,0,0,0,0,0,105,0,0,0,0,105
+XUKN,40,0,0,0,0,0,40,0,0,0,0,40
+Total,191,0,0,0,10,0,201,0,-1,0,-1,200
+,,,,,,,,,,,UnassignedDemand,0
+,,,,,,,,,,,NetInventory,200
+Print This Page  Do you have a question or need help? Contact Us  Alaska FAQ,,,,,,,,,,,,
+Print This Page,,,,,,,,,,,,
+Do you have a question or need help? Contact Us,,,,,,,,,,,,
+Alaska FAQ,,,,,,,,,,,,
